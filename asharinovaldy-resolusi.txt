@@ -1,4 +1,4 @@
 asharinovaldy-resolusi
-- konsisten belajar setiap harinya
 - membuat web project
 - belajar 8 jam perhari
+- membuat portofolio
