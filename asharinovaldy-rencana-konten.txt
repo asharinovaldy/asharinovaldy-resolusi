@@ -4,5 +4,6 @@ RENCANA KONTEN
   * konsep pewarnaan
 - dasar dasar UX
 - dasar dasar UI
-- 
 - struktur data dasar
+- react js
+- laravel
