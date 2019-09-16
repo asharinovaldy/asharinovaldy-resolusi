@@ -1,0 +1,5 @@
+RENCANA KONTEN
+- dasar dasar desain
+- dasar dasar UX
+- dasar dasar UI
+- komponen
