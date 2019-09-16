@@ -1,5 +1,7 @@
 RENCANA KONTEN
 - dasar dasar desain
+  * konsep dasar desain
+  * konsep pewarnaan
 - dasar dasar UX
 - dasar dasar UI
 - komponen
